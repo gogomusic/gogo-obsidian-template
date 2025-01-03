@@ -1,0 +1,21 @@
+{
+  "processCreated": false,
+  "ignoredExt": "cnt|php|htm|html",
+  "processAll": false,
+  "useCaptions": true,
+  "pathInTags": "onlyRelative",
+  "downUnknown": true,
+  "saveAttE": "obsFolder",
+  "realTimeUpdate": false,
+  "filesizeLimit": 0,
+  "tryCount": 2,
+  "realTimeUpdateInterval": 5,
+  "addNameOfFile": true,
+  "showNotifications": true,
+  "include": ".*\\.md",
+  "mediaRootDir": "_resources/${notename}",
+  "disAddCom": false,
+  "useMD5ForNewAtt": true,
+  "removeMediaFolder": true,
+  "removeOrphansCompl": false
+}

@@ -1,0 +1,79 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiImageFill",
+      "🖼",
+      "LiInbox"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": ".md",
+        "icon": "FabMarkdown",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": ".ttf|fonts",
+        "icon": "RiFontSize",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": ".pdf",
+        "icon": "BoBxsFilePdf",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": ".jpg|.png|.webp|.gif",
+        "icon": "LiImage",
+        "for": "everything",
+        "order": 3
+      },
+      {
+        "rule": "assets|images",
+        "icon": "RiImage2Line",
+        "for": "everything",
+        "order": 4
+      },
+      {
+        "rule": "Excalidraw",
+        "icon": "BoBxPaint",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": "Template",
+        "icon": "LiBookTemplate",
+        "for": "everything",
+        "order": 6
+      }
+    ],
+    "extraMargin": {
+      "top": -2,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Inbox": "LiInbox"
+}

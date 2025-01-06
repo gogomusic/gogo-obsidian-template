@@ -1,11 +1,11 @@
 {
   "attachmentFolderPath": "./assets",
   "autoRenameFiles": false,
-  "autoRenameFolder": true,
+  "autoRenameFolder": false,
   "convertImagesOnDragAndDrop": false,
   "convertImagesToJpeg": false,
   "deleteOrphanAttachments": false,
-  "duplicateNameSeparator": " ",
+  "duplicateNameSeparator": " _",
   "jpegQuality": 0.8,
   "keepEmptyAttachmentFolders": true,
   "pastedFileName": "${originalCopiedFilename}",

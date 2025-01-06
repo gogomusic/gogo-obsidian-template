@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "livePreview": true,
   "strictLineBreaks": true,
   "spellcheckLanguages": null,

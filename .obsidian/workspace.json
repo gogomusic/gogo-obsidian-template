@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "119347c2751ec69c",
+        "id": "dde152ad28821699",
         "type": "tabs",
         "children": [
           {
-            "id": "6507b7881900715c",
+            "id": "4f08866e1bfdd172",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -110,11 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -154,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 280.5
   },
   "right": {
     "id": "ec17f6e1f4d250ee",
@@ -209,17 +202,17 @@
   "left-ribbon": {
     "hiddenItems": {
       "vscode-editor:新建代码文件": false,
-      "templates:插入模板": false,
       "audio-recorder:开始/结束录音": false,
-      "callout-manager:Insert Callout": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "callout-manager:Insert Callout": false,
       "canvas:新建白板": false,
+      "templates:插入模板": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "cmdr:文件列表: 在文件列表中显示当前文件": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": true,
       "command-palette:打开命令面板": true,
-      "media-extended:Open media": false,
+      "media-extended:Open media": true,
       "meld-encrypt:New encrypted note": false,
       "meld-encrypt:Convert to or from an Encrypted note": false,
       "meld-encrypt:Encrypt/Decrypt": false,
@@ -233,6 +226,13 @@
   },
   "active": "3dcbbc8a8c8c0a61",
   "lastOpenFiles": [
+    "Inbox/未命名.canvas",
+    "README.md",
+    "Inbox/Inbox.md",
+    "assets/Excalidraw/demo.png",
+    "assets/Excalidraw/demo.md",
+    "assets/Template/日记.md",
+    "assets/images/Nahida.jpg",
     "Inbox/~$新建 Microsoft Excel 工作表.xlsx",
     "Inbox/新建 Microsoft Excel 工作表.xlsx",
     "Inbox/新建 Microsoft Excel 工作表.zip",
@@ -243,24 +243,18 @@
     "Inbox/1D274541.tmp",
     "Inbox/2A360580",
     "Inbox/7064A40.tmp.tsdebak",
-    "Inbox/7064A40.tmp",
     "Inbox/demo.md",
-    "README.md",
     "Inbox/未命名 1.md",
     "Inbox/Untitled Diagram.svg",
     "assets/images/02.jpg",
-    "Inbox/未命名.canvas",
     "assets/Excalidraw/Drawing 2024-08-29 16.08.00.md",
     "assets/images/gogo.png",
     "assets/images/hutao.gif",
     "Inbox/assets/Jun‘s Kitchen cat.jpg",
-    "Inbox/Inbox.md",
     "DEMO/DEMO.md",
     "Inbox/CSDN - 专业开发者社区_files/20220117023327.png",
     "Inbox/CSDN - 专业开发者社区_files/qr_wechat.png",
     "Inbox/CSDN - 专业开发者社区_files/qr_video.png",
-    "Inbox/CSDN - 专业开发者社区_files/qr_app.png",
-    "Inbox/CSDN - 专业开发者社区_files/qr.png",
     "assets/js/未命名.md",
     "assets/未命名.md",
     "orphaned files output.md",
@@ -278,8 +272,6 @@
     "Inbox/111.md",
     "Inbox/Note Name.md",
     "assets/Template/Template.md",
-    "assets/Template/未命名.md",
-    "Inbox/test.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

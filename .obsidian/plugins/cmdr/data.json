@@ -16,7 +16,14 @@
       "mode": "any"
     }
   ],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "meld-encrypt:meld-encrypt-toggle-reading-view",
+      "icon": "edit",
+      "name": "Meld Encrypt: Toggle Reading View",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [
     {
       "id": "file-explorer:reveal-active-file",
@@ -28,7 +35,14 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右分屏",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {

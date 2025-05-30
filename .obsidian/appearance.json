@@ -15,5 +15,6 @@
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "textFontFamily": "Noto Sans SC,OPPOSans,阿里巴巴普惠体 3.0,霞鹜文楷 GB 屏幕阅读版 R",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

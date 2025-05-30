@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dde152ad28821699",
+        "id": "dec07aec4c6b8fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "4f08866e1bfdd172",
+            "id": "bad85ff6ad8b4c5d",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -37,7 +37,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -89,8 +90,8 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
-              "icon": "clock",
-              "title": "Chronology"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -105,7 +106,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "大纲"
             }
@@ -177,8 +182,8 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "clock",
+              "title": "Chronology"
             }
           },
           {
@@ -192,12 +197,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,22 +217,20 @@
       "switcher:打开快速切换": true,
       "command-palette:打开命令面板": true,
       "media-extended:Open media": true,
-      "meld-encrypt:New encrypted note": false,
-      "meld-encrypt:Convert to or from an Encrypted note": false,
-      "meld-encrypt:Encrypt/Decrypt": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false,
       "chronology:Open Chronology": true,
       "open-vscode:VSCode": false,
       "workspaces:管理工作区布局": false,
-      "workspaces-plus:Manage workspaces": true
+      "workspaces-plus:Manage workspaces": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "3dcbbc8a8c8c0a61",
+  "active": "bad85ff6ad8b4c5d",
   "lastOpenFiles": [
-    "Inbox/未命名.canvas",
-    "README.md",
     "Inbox/Inbox.md",
+    "README.md",
+    "Inbox/未命名.canvas",
     "assets/Excalidraw/demo.png",
     "assets/Excalidraw/demo.md",
     "assets/Template/日记.md",

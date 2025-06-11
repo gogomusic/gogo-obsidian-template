@@ -1,6 +1,6 @@
 {
   "disableDoubleClickTextEditing": false,
-  "folder": "/assets/Excalidraw",
+  "folder": "/Inbox",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": true,
@@ -102,7 +102,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.7.4",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.12.2",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -115,7 +115,7 @@
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
   "previousRelease": "2.12.2",
-  "showReleaseNotes": true,
+  "showReleaseNotes": false,
   "showNewVersionNotification": false,
   "latexBoilerplate": "\\color{blue}",
   "latexPreambleLocation": "preamble.sty",
@@ -469,7 +469,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
-  "aiEnabled": true,
+  "aiEnabled": false,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",

@@ -4,12 +4,6 @@
   "debug": false,
   "editorMenu": [
     {
-      "id": "language-translator:language-translator-editor-command",
-      "icon": "baseline",
-      "name": "翻译",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-file-path-to-uri:paste-file-path-as-file-uri",
       "icon": "anchor",
       "name": "转换为文件链接",
@@ -30,6 +24,13 @@
       "icon": "lucide-navigation",
       "name": "文件列表: 在文件列表中显示当前文件",
       "mode": "any"
+    },
+    {
+      "id": "drawio-obsidian:create-new-diagram",
+      "icon": "lucide-image-plus",
+      "name": "新建draw.io绘图",
+      "mode": "any",
+      "color": "#000000"
     }
   ],
   "rightRibbon": [],
@@ -37,9 +38,9 @@
   "statusBar": [],
   "pageHeader": [
     {
-      "id": "workspace:split-vertical",
-      "icon": "lucide-separator-vertical",
-      "name": "左右分屏",
+      "id": "bookmarks:bookmark-current-view",
+      "icon": "lucide-bookmark-plus",
+      "name": "书签: 收藏",
       "mode": "any"
     }
   ],

@@ -7,7 +7,6 @@
   "settings-search",
   "tag-wrangler",
   "obsidian-emoji-toolbar",
-  "better-word-count",
   "obsidian-linter",
   "easy-typing-obsidian",
   "obsidian-pandoc",
@@ -42,5 +41,6 @@
   "callout-manager",
   "vscode-editor",
   "open-vscode",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "various-complements"
 ]

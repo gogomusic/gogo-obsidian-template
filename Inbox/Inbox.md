@@ -1,5 +1,4 @@
 # Inbox
 
-用于存放待处理的文件
-
-![Nahida|150](../assets/images/Nahida.jpg)
+> [!tip]
+> 此文件夹用于存放待处理的文件。

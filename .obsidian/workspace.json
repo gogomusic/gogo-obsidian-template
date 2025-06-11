@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dec07aec4c6b8fbb",
+        "id": "8c8f9b41c3c7726d",
         "type": "tabs",
         "children": [
           {
-            "id": "bad85ff6ad8b4c5d",
+            "id": "b5cec922e67d4e9c",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -29,7 +34,6 @@
       {
         "id": "9e6735196b57cda2",
         "type": "tabs",
-        "dimension": 54.78424015009381,
         "children": [
           {
             "id": "3dcbbc8a8c8c0a61",
@@ -38,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +82,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -90,16 +96,23 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "clock",
+              "title": "Chronology"
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "ec17f6e1f4d250ee",
+    "type": "split",
+    "children": [
       {
-        "id": "5e69b2b953735d5d",
+        "id": "c75d980f294ec32c",
         "type": "tabs",
-        "dimension": 45.21575984990619,
         "children": [
           {
             "id": "08a7f40e592f508f",
@@ -107,12 +120,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "README.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "814fb679aabbfd0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
             }
           },
           {
@@ -135,119 +163,75 @@
             }
           },
           {
-            "id": "814fb679aabbfd0e",
+            "id": "735c50a6b561ca50",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "file-properties",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "README.md"
               },
-              "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "icon": "lucide-info",
+              "title": "README的笔记属性"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
-  },
-  "right": {
-    "id": "ec17f6e1f4d250ee",
-    "type": "split",
-    "children": [
-      {
-        "id": "ed00e37368c19a1d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d32c1a8a6c88ff4",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "1fdd310990f1a216",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Chronology"
-            }
-          },
-          {
-            "id": "481bc46ce7b8ea29",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Chronology"
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 390.5
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vscode-editor:新建代码文件": false,
-      "audio-recorder:开始/结束录音": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "cmdr:文件列表: 在文件列表中显示当前文件": false,
       "callout-manager:Insert Callout": false,
+      "cmdr:新建draw.io绘图": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "audio-recorder:开始/结束录音": false,
+      "vscode-editor:新建代码文件": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "cmdr:文件列表: 在文件列表中显示当前文件": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": true,
       "command-palette:打开命令面板": true,
       "media-extended:Open media": true,
       "obsidian-importer:Open Importer": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false,
       "chronology:Open Chronology": true,
-      "open-vscode:VSCode": false,
-      "workspaces:管理工作区布局": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "workspaces:管理工作区布局": true,
       "workspaces-plus:Manage workspaces": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "bad85ff6ad8b4c5d",
+  "active": "b5cec922e67d4e9c",
   "lastOpenFiles": [
     "Inbox/Inbox.md",
     "README.md",
-    "Inbox/未命名.canvas",
+    "assets/fonts/OPPOSans-M.ttf",
+    "assets/fonts/Noto-Sans-SC/NotoSansSC-Thin.otf",
+    "assets/fonts/Noto-Sans-SC/NotoSansSC-Regular.otf",
+    "assets/fonts/Noto-Sans-SC/NotoSansSC-Medium.otf",
+    "assets/fonts/Noto-Sans-SC/NotoSansSC-Light.otf",
+    "assets/fonts/Noto-Sans-SC/NotoSansSC-Bold.otf",
+    "assets/fonts/Noto-Sans-SC/NotoSansSC-Black.otf",
+    "assets/fonts/Noto-Sans-SC",
+    "assets/fonts",
+    "My code file.ts",
+    "Inbox/Untitled Diagram.svg",
+    "Inbox/Drawing 2025-06-11 09.50.14.md",
+    "assets/Template/日记.md",
     "assets/Excalidraw/demo.png",
     "assets/Excalidraw/demo.md",
-    "assets/Template/日记.md",
+    "assets/Excalidraw/Drawing 2025-06-11 09.40.37.md",
+    "assets/Excalidraw/Drawing 2025-06-11 09.35.01.md",
+    "Inbox/Untitled Diagram 2.svg",
+    "Inbox/Untitled Diagram 1.svg",
     "assets/images/Nahida.jpg",
-    "Inbox/~$新建 Microsoft Excel 工作表.xlsx",
-    "Inbox/新建 Microsoft Excel 工作表.xlsx",
-    "Inbox/新建 Microsoft Excel 工作表.zip",
-    "Inbox/新建 Microsoft Excel 工作表.rar",
-    "Inbox/~$新建 Microsoft Excel 工作表 - 副本.xlsx",
-    "Inbox/新建 Microsoft Excel 工作表 - 副本.xlsx",
-    "Inbox/1D274541.tmp.tsdebak",
-    "Inbox/1D274541.tmp",
-    "Inbox/2A360580",
-    "Inbox/7064A40.tmp.tsdebak",
+    "Inbox/1.md",
+    "Inbox/未命名.canvas",
     "Inbox/demo.md",
     "Inbox/未命名 1.md",
-    "Inbox/Untitled Diagram.svg",
     "assets/images/02.jpg",
     "assets/Excalidraw/Drawing 2024-08-29 16.08.00.md",
     "assets/images/gogo.png",
@@ -255,8 +239,6 @@
     "Inbox/assets/Jun‘s Kitchen cat.jpg",
     "DEMO/DEMO.md",
     "Inbox/CSDN - 专业开发者社区_files/20220117023327.png",
-    "Inbox/CSDN - 专业开发者社区_files/qr_wechat.png",
-    "Inbox/CSDN - 专业开发者社区_files/qr_video.png",
     "assets/js/未命名.md",
     "assets/未命名.md",
     "orphaned files output.md",
@@ -270,10 +252,6 @@
     "assets/assets.md",
     "assets/Excalidraw/Excalidraw.md",
     "Inbox/一个流.md",
-    "Inbox/测试文件.md",
-    "Inbox/111.md",
-    "Inbox/Note Name.md",
-    "assets/Template/Template.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

@@ -22,20 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "README.md",
-      "timestamp": 1749611505473
-    },
-    {
-      "filepath": "Inbox/Inbox.md",
-      "timestamp": 1749611491962
-    },
-    {
-      "filepath": "assets/Template/日记.md",
-      "timestamp": 1749606448190
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

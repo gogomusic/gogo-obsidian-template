@@ -173,6 +173,20 @@
               "icon": "lucide-info",
               "title": "README的笔记属性"
             }
+          },
+          {
+            "id": "d23c3be1ea151274",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ]
       }
@@ -199,13 +213,14 @@
       "chronology:Open Chronology": true,
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
       "workspaces:管理工作区布局": true,
-      "workspaces-plus:Manage workspaces": false,
-      "markdown-importer:打开 Markdown 格式转换器": true,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "b5cec922e67d4e9c",
+  "active": "3dcbbc8a8c8c0a61",
   "lastOpenFiles": [
+    "assets/fonts/NotoSansSC-VariableFont_wght.ttf",
+    "assets/fonts/Noto-Sans-SC/NotoSansSC-VariableFont_wght.ttf",
     "Inbox/Inbox.md",
     "README.md",
     "assets/fonts/OPPOSans-M.ttf",
@@ -217,7 +232,6 @@
     "assets/fonts/Noto-Sans-SC/NotoSansSC-Black.otf",
     "assets/fonts/Noto-Sans-SC",
     "assets/fonts",
-    "My code file.ts",
     "Inbox/Untitled Diagram.svg",
     "Inbox/Drawing 2025-06-11 09.50.14.md",
     "assets/Template/日记.md",
